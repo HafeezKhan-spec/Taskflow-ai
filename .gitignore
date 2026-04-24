@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+package-lock.json
+*.log
+taskwise-ai/node_modules/
+taskwise-ai/dist/
+taskwise-ai/.env
